@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+look in /tasks.md to find the next task which isn't completed yet. Execute the task and commit it. Then check the box in the tasks document and wait for the user to review.
